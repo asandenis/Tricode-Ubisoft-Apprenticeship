@@ -42,7 +42,7 @@
     CSS
   </li>
   <li>
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-openai-logo-founded-in-2015-artificial-intelligence-research-company-dalle-chatgpt.png" width="24" alt="OpenAI Icon" />
+    <img src="https://static.vecteezy.com/system/resources/previews/022/227/364/non_2x/openai-chatgpt-logo-icon-free-png.png" width="24" alt="OpenAI Icon" />
     OpenAI's API
   </li>
 </ul>
