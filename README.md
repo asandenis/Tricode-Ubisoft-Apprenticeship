@@ -1,13 +1,9 @@
-// Tricode
-
-
-
 <h1 style="color: #4A90E2; border-bottom: 2px solid #4A90E2;">Tricode</h1>
 
 <h3 style="color: #555;">Ubisoft Full-Stack Apprenticeship Project.</h3>
 
 <p align="center">
-  <img src="your-image-url.png" width="200" alt="Project Logo">
+  <img src="https://imgur.com/a/JVVc9BQ" width="200" alt="Project Logo">
 </p>
 
 <p align="center">
