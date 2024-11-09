@@ -73,6 +73,6 @@ npm run dev
 <h2 id="license" style="color: #4A90E2;">📝 License</h2>
 <p>This project is licensed under the MIT License.</p>
 
-<p align="center" style="color: #888; font-size: 12px;">
+<p align="left" style="color: #888; font-size: 12px;">
   © 2023 Asan Denis-Claudiu, Mihai Ioana-Alexandra, Aroșoae Georgiana, Jilavu Alexandru, Atanasiu Alina - All Rights Reserved
 </p>
