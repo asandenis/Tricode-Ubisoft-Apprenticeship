@@ -65,7 +65,7 @@ npm install vite
 </pre>
 
 <h2 id="usage" style="color: #4A90E2;">🚀 Usage</h2>
-<p style="color: #a8a8a8; font-size: 10px;">Add a valid OpenAI API key inside of src/App.jsx.</p>
+<p style="font-size: 10px;">Add a valid OpenAI API key inside of src/App.jsx.</p>
 
 <p>To start using the project, run:</p>
 
