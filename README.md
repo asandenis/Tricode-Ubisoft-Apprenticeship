@@ -3,7 +3,7 @@
 <h3 style="color: #555;">Ubisoft Full-Stack Apprenticeship Project.</h3>
 
 <p align="center">
-  <img src="https://imgur.com/a/JVVc9BQ" width="200" alt="Project Logo">
+  <img src="https://i.imgur.com/Z4EnEet.png" width="200" alt="Project Logo">
 </p>
 
 <p align="center">
