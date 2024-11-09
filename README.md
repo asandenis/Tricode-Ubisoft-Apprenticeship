@@ -3,7 +3,7 @@
 <h3 style="color: #555;">Ubisoft Full-Stack Apprenticeship Project.</h3>
 
 <p align="center">
-  <img src="https://i.imgur.com/Z4EnEet.png" width="200" alt="Project Logo">
+  <img src="https://i.imgur.com/Z4EnEet.png" width="500" alt="Project Logo">
 </p>
 
 <p align="center">
@@ -15,6 +15,7 @@
 <h2 style="color: #4A90E2;">📋 Table of Contents</h2>
 <ul>
   <li><a href="#features">Features</a></li>
+  <li><a href="#technologies">Technologies used</a></li>
   <li><a href="#installation">Installation</a></li>
   <li><a href="#usage">Usage</a></li>
   <li><a href="#contributing">Contributing</a></li>
@@ -23,9 +24,27 @@
 
 <h2 id="features" style="color: #4A90E2;">✨ Features</h2>
 <ul style="list-style-type: square;">
-  <li>Feature 1 - Description</li>
-  <li>Feature 2 - Description</li>
-  <li>Feature 3 - Description</li>
+  <li>Custom Clothing Generation using OpenAI's API.</li>
+</ul>
+
+<h2 id="technologies" style="color: #4A90E2;">🖥️ Technologies used</h2>
+<ul style="list-style-type: none;">
+  <li>
+    <img src="https://img.icons8.com/color/48/000000/react-native.png" width="24" alt="React Icon" />
+    React
+  </li>
+  <li>
+    <img src="https://vitejs.dev/logo.svg" width="24" alt="Vite Icon" />
+    Vite
+  </li>
+  <li>
+    <img src="https://img.icons8.com/color/48/000000/css3.png" width="24" alt="CSS Icon" />
+    CSS
+  </li>
+  <li>
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-openai-logo-founded-in-2015-artificial-intelligence-research-company-dalle-chatgpt.png" width="24" alt="OpenAI Icon" />
+    OpenAI's API
+  </li>
 </ul>
 
 <h2 id="installation" style="color: #4A90E2;">⚙️ Installation</h2>
@@ -33,9 +52,9 @@
 
 <pre>
 <code>
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-npm install
+git clone https://github.com/asandenis/Tricode-Ubisoft-Apprenticeship.git
+cd Tricode-Ubisoft-Apprenticeship
+npm install vite
 </code>
 </pre>
 
@@ -44,16 +63,16 @@ npm install
 
 <pre>
 <code>
-npm start
+npm run dev
 </code>
 </pre>
 
 <h2 id="contributing" style="color: #4A90E2;">🤝 Contributing</h2>
-<p>Contributions are welcome! Please read <a href="CONTRIBUTING.md">CONTRIBUTING.md</a> for details.</p>
+<p>This project is a closed, internal project. Contributions are closed as of now!</p>
 
 <h2 id="license" style="color: #4A90E2;">📝 License</h2>
-<p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
+<p>This project is licensed under the MIT License.</p>
 
 <p align="center" style="color: #888; font-size: 12px;">
-  © 2024 Your Name - All Rights Reserved
+  © 2023 Asan Denis-Claudiu, Mihai Ioana-Alexandra, Aroșoae Georgiana, Jilavu Alexandru, Atanasiu Alina - All Rights Reserved
 </p>
